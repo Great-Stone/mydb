@@ -1,3 +1,7 @@
+---
+name: devops
+title: DevOps 연구소 좌담회 - 2차
+---
 # DevOps 연구소 좌담회 - 2차
 
 ### Q. 컨테이너란?
