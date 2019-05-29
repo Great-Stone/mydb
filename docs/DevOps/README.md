@@ -1,4 +1,5 @@
 # DevOps 연구소 좌담회 - 2차
+> JUHEE KANG / GYUSEOK LEE
 
 ### Q. 컨테이너란?
 
