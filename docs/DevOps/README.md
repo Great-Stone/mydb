@@ -1,7 +1,3 @@
----
-name: devops
-title: DevOps 연구소 좌담회 - 2차
----
 # DevOps 연구소 좌담회 - 2차
 
 ### Q. 컨테이너란?
@@ -74,10 +70,10 @@ title: DevOps 연구소 좌담회 - 2차
 
     - 모든 Docker 작업은 동일한 전체 루트 권한을 가진 사용자 (또는 사용자)가 수행해야했습니다.
 
-      ![Docker Work - Docker ìí¤íì² ê°ì](C:\Users\gyulee\Dropbox\Markup\images\fig1.png)
+      ![Docker Work - Docker ìí¤íì² ê°ì](https://developers.redhat.com/blog/wp-content/uploads/2019/02/fig1.png)
 
   - Podman
 
     - Podman 방식은 이미지 레지스트리, 컨테이너 및 이미지 저장소, runC 컨테이너 런타임 프로세스 (no Daemon)를 통해 Linux 커널과 직접 상호 작용하는 것입니다.
 
-      ![í¬ëë§ ìí¤íì² ì ê·¼ ë°©ì](C:\Users\gyulee\Dropbox\Markup\images\fig2-1559094822635.png)
+      ![í¬ëë§ ìí¤íì² ì ê·¼ ë°©ì](https://developers.redhat.com/blog/wp-content/uploads/2019/02/fig2.png)
